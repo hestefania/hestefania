@@ -29,7 +29,5 @@ About me:
 - 👯 I’m looking to collaborate on social projects
 - 🤔 I’m looking for help people who starting in engenier and BPM.
 - 💬 Ask me about anything, but know I'm passionate about technology 
-- 📫 How to reach me: Likedin/Hestefania
-- 😄 Pronouns: ...
 - ⚡ Curisity: I'm curious by nature 
 
