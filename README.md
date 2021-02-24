@@ -4,7 +4,18 @@
 Hi, I'm Hestefania . Nice to meet you. 👋
 
 Connect with me:
-Twitter  LinkedIn  Instagram 
+ 
+<p>
+  <a href="https://www.linkedin.com/in/hestefania-guimaraes-b07aa815" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="https://github.com/hestefania" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+  </a>
+</p>
+ 
+ 
+https://trailblazer.me/id/heste
 
 Languages and Tools:
 HTML Git  GitHub  Gitlab Java JavaScript  ESQL PL/SQL SOAP API MQ amazonaws 
