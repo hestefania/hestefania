@@ -9,11 +9,14 @@ Connect with me:
   </a> &nbsp; 
   <a href="https://github.com/hestefania" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
-  </a>
+  </a>&nbsp; 
+ 
+ <a href="https://trailblazer.me/id/heste" rel="nofollow noreferrer">
+ <img src="https://www.clipartmax.com/png/small/127-1279780_salesforce-stickers-messages-sticker-0-astro-salesforce-png.png" alt="Salesforce Stickers Messages Sticker-0 - Astro Salesforce Png" height=15 width=15> Trailblazer
+ </a>
 </p>
  
- 
-https://trailblazer.me/id/heste
+  
 
 Languages and Tools:
 HTML Git  GitHub  Gitlab Java JavaScript  ESQL PL/SQL SOAP API MQ amazonaws 
