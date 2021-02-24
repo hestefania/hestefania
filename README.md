@@ -1,8 +1,8 @@
-### Hi there 👋
+Hi, I'm Hestefania . Nice to meet you. 👋
 
 <!--
 **hestefania/hestefania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 About me:
 
 - 🔭 I’m currently working on Itau as a Software Engenier
@@ -13,4 +13,4 @@ About me:
 - 📫 How to reach me: Likedin/Hestefania
 - 😄 Pronouns: ...
 - ⚡ Curisity: I'm curious by nature 
--->
+
