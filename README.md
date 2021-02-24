@@ -1,6 +1,10 @@
  ✨hestefania / README.md
+ 
 
 Hi, I'm Hestefania . Nice to meet you. 👋
+
+Connect with me:
+Medium  Twitter  LinkedIn  Instagram 
 
 <!--
 **hestefania/hestefania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
